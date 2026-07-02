@@ -1,0 +1,40 @@
+Privacy Policy
+
+Last updated: 2 July 2026
+
+Bunny is a user-installed Discord bot providing utility, entertainment, AI, and Roblox-related features. This Privacy Policy explains what data we collect, how we use it, and your rights.
+
+What We Collect
+
+- Your Discord user ID — Used to associate your settings and command usage with your account.
+- Your command inputs — Text you submit to commands such as AI prompts, search queries, translation requests, and links. This data is used solely to fulfill your request.
+- Your linked account credentials — Only if you choose to connect a third-party account via OAuth. These credentials are stored only to provide the relevant bot features (such as YouTube search and uploads).
+- Your preferences — Settings you configure through the bot, stored against your user or server ID (for example, notification channels and ping roles for Roblox updates).
+- Command usage logs — Information about commands executed through the bot, including command name, timestamp, server context, and diagnostic information. These logs are used for debugging, abuse prevention, analytics, and improving service reliability.
+- Server statistics — Guild count, member count, and user install count, which may be displayed in the bot's presence or informational commands.
+
+What We Do Not Collect
+
+- General Discord message content outside of bot commands.
+- Your IP address or browser data from Discord usage.
+- Data retrieved through third-party lookups unless it is required for a connected feature.
+
+Third-Party Services
+
+Some Bunny features rely on third-party services, including OpenAI, YouTube Data API, Google OAuth, ScriptBlox, BaconBypass, JokeAPI, APKPure, Apple iTunes, and other APIs. Data obtained through these services is used only to complete your request and is not stored by us unless necessary for the connected feature. Each provider has its own privacy policy governing its data practices.
+
+Data Retention & Deletion
+
+Command usage logs are retained for up to 90 days before automatic deletion. Other stored data is kept only for as long as necessary to provide Bunny's features.
+
+Aggregated statistics (such as total commands executed) may remain after log deletion because they do not contain personally identifiable information.
+
+You may request deletion of your stored data by contacting us through our support server. To prevent future data collection after deletion, accounts requesting deletion may be restricted or blacklisted from using Bunny.
+
+Security
+
+Data is stored on our servers and is never sold, rented, shared with advertisers, or used for advertising. Only the bot operator has access to stored data. Sensitive credentials are protected using encryption where applicable.
+
+Changes
+
+If this Privacy Policy changes in a meaningful way, the Last updated date above will be revised. Continued use of Bunny after those changes constitutes your acceptance of the updated Privacy Policy.
